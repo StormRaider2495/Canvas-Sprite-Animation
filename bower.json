@@ -1,0 +1,25 @@
+{
+  "name": "canvas sprite animation",
+  "authors": [
+    "StormRaider2495 <arunit95@gmail.com>"
+  ],
+  "description": "sprite animation using canvas",
+  "main": "index.html",
+  "keywords": [
+    "canvas",
+    "sprite",
+    "animation"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.0"
+  }
+}
